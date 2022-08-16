@@ -1,0 +1,45 @@
+body {
+    color: peru;
+    background-color: lightskyblue;
+}
+.heading {
+    width:80%;
+    font-size: 22px;
+}
+.NombreDeObjetos {
+    color: lightcoral;
+}
+#camera {
+    border: 2px dashed royalblue;
+    height: 300px;
+    width: 350px;
+}
+.NombreDeObjetos, #Result_Object_Name , #Result_Object_Accuracy{
+ color:chocolate;
+}
+#LetrasISuppose {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:slateblue;
+}
+#reproducelacancioniSuppose {
+    width:30%;
+    height:10%;
+    font-size: 90%;
+    background-color: mediumpurple;
+}
+#reproducelacancionLight {
+    width:30%;
+    height:10%;
+    font-size: 90%;
+    background-color: yellowgreen;
+}
+#letrasDeLight {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:forestgreen;
+}
+#reproducelacancionSmug {
+    width:30%;
+    height:10%;
+    font-size: 90%;
+    background-color: crimson; 
+}
